@@ -1,0 +1,4 @@
+SparseCNN with MSE - 20200522-124247.ckpt
+CNN with MSE - 20200521-182458.ckpt
+CNN with Modified MSE - 20200522-145004.ckpt
+SparseCNN with Modified MSE - 20200522-144740.ckpt
