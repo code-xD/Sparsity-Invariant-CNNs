@@ -1,5 +1,6 @@
 # Sparsity-Invariant-CNNs
-This repository contains all the files for you to implement **Sparsity Invariant CNN**. In order to run this project you need to make a Google Drive folder to upload these files in order to work with Google Colab.
+This repository contains all the files for you to implement **Sparsity Invariant CNN**. In order to run this project you need to make a Google Drive folder to upload these files in order to work with Google Colab. Open `CNN_v_s_Sparse_CNN_Tf.ipynb
+` to run the program.
 
 ### How to Setup?
 
